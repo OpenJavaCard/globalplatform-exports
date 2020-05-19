@@ -16,6 +16,8 @@ We redistribute these files as they are a necessary component for building appli
 
 ### Version Table
 
+The following table might give an indication as to which version of respective APIs you need.
+
 | Version | Released      | Features                                                 | GP API | CL API  | UP API  |
 | ------- | ------------- | -------------------------------------------------------- | ------ | ------- | ------- |
 | 2.3.1   | March 2018    | SCP02 deprecated                                         | 1.6    | 1.2/1.3 | 1.0/1.1 |
