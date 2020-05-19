@@ -8,7 +8,9 @@ It has been created as a dependency submodule for packages using these APIs.
 
 ### License
 
-The files distributed here are the intellectual property of GlobalPlatform and may be used only as per the provided [license agreement](GP-Specification-License-Agreement.pdf).
+The files distributed here are the intellectual property of GlobalPlatform.
+
+They may be used only as per the provided [license agreement](GP-Specification-License-Agreement.pdf).
 
 We redistribute these files as they are a necessary component for building applications using GlobalPlatform APIs.
 
