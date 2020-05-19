@@ -16,7 +16,6 @@ This license can be found in the file [GP-Specification-License-Agreement.pdf](G
 
 ### Version Table
 
-| ------- | ------------- | -------------------------------------------------------- | ------ | ------- | ------- |
 | Version | Released      | Features                                                 | GP API | CL API  | UP API  |
 | ------- | ------------- | -------------------------------------------------------- | ------ | ------- | ------- |
 | 2.3.1   | March 2018    | SCP02 deprecated                                         | 1.6    | 1.2/1.3 | 1.0/1.1 |
