@@ -1,6 +1,6 @@
 ## Export files for GlobalPlatform APIs
 
-The GlobalPlatform APIs are JavaCard extensions specified by various GlobalPlatform specifications.
+The GlobalPlatform APIs are JavaCard extensions specified by various [GlobalPlatform](https://globalplatform.org/) specifications.
 
 This repository contains the export files for all versions of the various APIs.
 
